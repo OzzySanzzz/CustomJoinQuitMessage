@@ -1,0 +1,9 @@
+name: CustomJoinQuitMessage
+main: OzzySanzzz\Main
+api: 
+  - 4.0.0
+  - 5.0.0
+version: 1.0.0
+author: OzzySanzzz
+website: https://github.com/OzzySanzzz
+description: Useful plugin to change player login notifications to the server :)
