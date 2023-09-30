@@ -1,2 +1,5 @@
-# CustomJoinQuitMessage
-Custom You Join Quit Notification On You Server
+# GENERAL
+Custom You Join Quit Message On You Server
+
+# Features:
+- Custom You Join Quit Message
